@@ -11,7 +11,7 @@ import  { View,
 
 
 const Calculadora = () => {
-    
+    const [reultado, setResultado] = useState('');
 }
 
 export default Calculadora;
