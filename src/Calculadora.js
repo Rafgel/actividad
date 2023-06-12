@@ -10,6 +10,8 @@ import  { View,
         } from "react-native";     
 
 
-
+const Calculadora = () => {
+    
+}
 
 export default Calculadora;
